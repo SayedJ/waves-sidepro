@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/waves-sidepro/static/css/main.52457808.css",
-    "main.js": "/waves-sidepro/static/js/main.e110ef4f.js",
+    "main.css": "/waves-sidepro/static/css/main.bf95ca96.css",
+    "main.js": "/waves-sidepro/static/js/main.1d2c5e5b.js",
     "static/js/787.792efc03.chunk.js": "/waves-sidepro/static/js/787.792efc03.chunk.js",
     "static/media/albumcover17.png": "/waves-sidepro/static/media/albumcover17.03d8530ba9c2bc9f7421.png",
     "static/media/albumcover21.png": "/waves-sidepro/static/media/albumcover21.67fc8dc35c92d83453fa.png",
@@ -34,12 +34,12 @@
     "static/media/Logo.png": "/waves-sidepro/static/media/Logo.adef095b18e5f0103b98.png",
     "static/media/logo3.jpg": "/waves-sidepro/static/media/logo3.6fd4972273668b86f97e.jpg",
     "index.html": "/waves-sidepro/index.html",
-    "main.52457808.css.map": "/waves-sidepro/static/css/main.52457808.css.map",
-    "main.e110ef4f.js.map": "/waves-sidepro/static/js/main.e110ef4f.js.map",
+    "main.bf95ca96.css.map": "/waves-sidepro/static/css/main.bf95ca96.css.map",
+    "main.1d2c5e5b.js.map": "/waves-sidepro/static/js/main.1d2c5e5b.js.map",
     "787.792efc03.chunk.js.map": "/waves-sidepro/static/js/787.792efc03.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.52457808.css",
-    "static/js/main.e110ef4f.js"
+    "static/css/main.bf95ca96.css",
+    "static/js/main.1d2c5e5b.js"
   ]
 }
